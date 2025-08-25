@@ -1,0 +1,777 @@
+[
+    {
+        "salary": null,
+        "name": "Бекенд разработчик в Gamedev (Python)",
+        "link": "https://hh.ru/vacancy/124390338",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "name": "Backend-разработчик (Python)",
+        "link": "https://hh.ru/vacancy/123298451",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Junior Frontend-разработчик (офис, Санкт-Петербург)",
+        "link": "https://hh.ru/vacancy/124178115",
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Стажер-разработчик Java",
+        "link": "https://hh.ru/vacancy/124294792",
+        "area": {
+            "id": "1002",
+            "name": "Минск",
+            "url": "https://api.hh.ru/areas/1002"
+        }
+    },
+    {
+        "salary": {
+            "from": 80000,
+            "to": 155000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Java-разработчик (стажер | junior)",
+        "link": "https://hh.ru/vacancy/124386064",
+        "area": {
+            "id": "4",
+            "name": "Новосибирск",
+            "url": "https://api.hh.ru/areas/4"
+        }
+    },
+    {
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Junior Python developer",
+        "link": "https://hh.ru/vacancy/123280899",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": {
+            "from": 37050,
+            "to": 78750,
+            "currency": "RUR",
+            "gross": true
+        },
+        "name": "Младший (junior) программист Python",
+        "link": "https://hh.ru/vacancy/123321954",
+        "area": {
+            "id": "26",
+            "name": "Воронеж",
+            "url": "https://api.hh.ru/areas/26"
+        }
+    },
+    {
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Middle+ Python Developer",
+        "link": "https://hh.ru/vacancy/124437138",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Стажер Python разработчик",
+        "link": "https://hh.ru/vacancy/123372097",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": {
+            "from": 90000,
+            "to": 115000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Data Scientist",
+        "link": "https://hh.ru/vacancy/123441557",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": {
+            "from": null,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "name": "Project manager (Junior)",
+        "link": "https://hh.ru/vacancy/124080369",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": {
+            "from": 100000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Программист Python",
+        "link": "https://hh.ru/vacancy/124028985",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Backend Python/SQL",
+        "link": "https://hh.ru/vacancy/123892205",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Стажёр-инженер по мобильному тестированию, Поиск и маркетинг, Ozon Tech",
+        "link": "https://hh.ru/vacancy/124398507",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": null,
+        "name": "AI/ML Engineer (Prompt & Context Engineering, RAG, AI Agents)/ML-инженер/промпт инженер",
+        "link": "https://hh.ru/vacancy/124221684",
+        "area": {
+            "id": "98",
+            "name": "Ульяновск",
+            "url": "https://api.hh.ru/areas/98"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Стажёр/Back-end разработчик (Python / Django) (AI & Automation)",
+        "link": "https://hh.ru/vacancy/123520905",
+        "area": {
+            "id": "1002",
+            "name": "Минск",
+            "url": "https://api.hh.ru/areas/1002"
+        }
+    },
+    {
+        "salary": {
+            "from": null,
+            "to": 500000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "name": "Junior Full Stack Developer",
+        "link": "https://hh.ru/vacancy/122418610",
+        "area": {
+            "id": "160",
+            "name": "Алматы",
+            "url": "https://api.hh.ru/areas/160"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Backend разработчик (Python/FastAPI + .NET)",
+        "link": "https://hh.ru/vacancy/123758779",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": {
+            "from": 20000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Junior Backend-разработчик в Серпухове",
+        "link": "https://hh.ru/vacancy/123372735",
+        "area": {
+            "id": "2073",
+            "name": "Серпухов (Московская область)",
+            "url": "https://api.hh.ru/areas/2073"
+        }
+    },
+    {
+        "salary": {
+            "from": 50000,
+            "to": 70000,
+            "currency": "KGS",
+            "gross": false
+        },
+        "name": "Фуллстак девелопер",
+        "link": "https://hh.ru/vacancy/124044630",
+        "area": {
+            "id": "2760",
+            "name": "Бишкек",
+            "url": "https://api.hh.ru/areas/2760"
+        }
+    },
+    {
+        "salary": null,
+        "name": "ML-разработчик",
+        "link": "https://hh.ru/vacancy/123991461",
+        "area": {
+            "id": "160",
+            "name": "Алматы",
+            "url": "https://api.hh.ru/areas/160"
+        }
+    },
+    {
+        "salary": {
+            "from": 30000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Разработчик Python",
+        "link": "https://hh.ru/vacancy/80736556",
+        "area": {
+            "id": "76",
+            "name": "Ростов-на-Дону",
+            "url": "https://api.hh.ru/areas/76"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Junior Python (ML) Developer",
+        "link": "https://hh.ru/vacancy/123497028",
+        "area": {
+            "id": "1002",
+            "name": "Минск",
+            "url": "https://api.hh.ru/areas/1002"
+        }
+    },
+    {
+        "salary": {
+            "from": 20000,
+            "to": 40000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "name": "Trainee/Intern/Junior Python backend developer",
+        "link": "https://hh.ru/vacancy/124125339",
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        }
+    },
+    {
+        "salary": {
+            "from": 45,
+            "to": 60,
+            "currency": "RUR",
+            "gross": true
+        },
+        "name": "Разработчик AI-агентов",
+        "link": "https://hh.ru/vacancy/123902039",
+        "area": {
+            "id": "43",
+            "name": "Калуга",
+            "url": "https://api.hh.ru/areas/43"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Стажер-разработчик бэкенда",
+        "link": "https://hh.ru/vacancy/124185193",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": {
+            "from": 25000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Начинающий Веб программист (Junior Web-разработчик, в офисе)",
+        "link": "https://hh.ru/vacancy/113027384",
+        "area": {
+            "id": "79",
+            "name": "Саратов",
+            "url": "https://api.hh.ru/areas/79"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Trainee Python Developer",
+        "link": "https://hh.ru/vacancy/123882420",
+        "area": {
+            "id": "1002",
+            "name": "Минск",
+            "url": "https://api.hh.ru/areas/1002"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Senior Data Scientist в команду NLP Search",
+        "link": "https://hh.ru/vacancy/124114434",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Junior Marketing Specialist (IT)",
+        "link": "https://hh.ru/vacancy/122833750",
+        "area": {
+            "id": "1002",
+            "name": "Минск",
+            "url": "https://api.hh.ru/areas/1002"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Backend-разработчик в офис",
+        "link": "https://hh.ru/vacancy/123411436",
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        }
+    },
+    {
+        "salary": {
+            "from": 100000,
+            "to": 700000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "name": "Backend / Full-stack разработчик (автоматизация, интеграции)",
+        "link": "https://hh.ru/vacancy/123988407",
+        "area": {
+            "id": "160",
+            "name": "Алматы",
+            "url": "https://api.hh.ru/areas/160"
+        }
+    },
+    {
+        "salary": null,
+        "name": "IT Sourcer/ИТ сорсер",
+        "link": "https://hh.ru/vacancy/123145762",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": {
+            "from": 40000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "name": "Стажер-разработчик AI-агентов в юридическое управление",
+        "link": "https://hh.ru/vacancy/124147084",
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        }
+    },
+    {
+        "salary": {
+            "from": 150000,
+            "to": 700000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "name": "Web3 / Blockchain разработчик (DeFi, криптовалюта, финансы)",
+        "link": "https://hh.ru/vacancy/123987412",
+        "area": {
+            "id": "160",
+            "name": "Алматы",
+            "url": "https://api.hh.ru/areas/160"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Junior Agentic AI Engineer (AI Agents Developer)",
+        "link": "https://hh.ru/vacancy/121337429",
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        }
+    },
+    {
+        "salary": {
+            "from": 20000,
+            "to": 30000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Специалист по IT",
+        "link": "https://hh.ru/vacancy/123358898",
+        "area": {
+            "id": "11",
+            "name": "Барнаул",
+            "url": "https://api.hh.ru/areas/11"
+        }
+    },
+    {
+        "salary": {
+            "from": 25000,
+            "to": 45000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Специалист по IT",
+        "link": "https://hh.ru/vacancy/123349666",
+        "area": {
+            "id": "1381",
+            "name": "Сургут",
+            "url": "https://api.hh.ru/areas/1381"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Backend-разработчик в офис",
+        "link": "https://hh.ru/vacancy/123411338",
+        "area": {
+            "id": "1291",
+            "name": "Нижний Тагил",
+            "url": "https://api.hh.ru/areas/1291"
+        }
+    },
+    {
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель программирования в онлайн-школу (Unity, HTML/CSS/JS)",
+        "link": "https://hh.ru/vacancy/124304067",
+        "area": {
+            "id": "4",
+            "name": "Новосибирск",
+            "url": "https://api.hh.ru/areas/4"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Node.js developer (Senior/Lead)",
+        "link": "https://hh.ru/vacancy/123756548",
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        }
+    },
+    {
+        "salary": {
+            "from": 30000,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель по программированию",
+        "link": "https://hh.ru/vacancy/123796643",
+        "area": {
+            "id": "1395",
+            "name": "Копейск",
+            "url": "https://api.hh.ru/areas/1395"
+        }
+    },
+    {
+        "salary": {
+            "from": 20000,
+            "to": 30000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель по IT",
+        "link": "https://hh.ru/vacancy/123358191",
+        "area": {
+            "id": "1420",
+            "name": "Ноябрьск",
+            "url": "https://api.hh.ru/areas/1420"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Trainee Angular developer",
+        "link": "https://hh.ru/vacancy/115992781",
+        "area": {
+            "id": "1002",
+            "name": "Минск",
+            "url": "https://api.hh.ru/areas/1002"
+        }
+    },
+    {
+        "salary": {
+            "from": 45000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "IT-специалист-преподаватель школы программирования",
+        "link": "https://hh.ru/vacancy/124007053",
+        "area": {
+            "id": "35",
+            "name": "Иркутск",
+            "url": "https://api.hh.ru/areas/35"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Стажер-разработчик бэкенда",
+        "link": "https://hh.ru/vacancy/124185194",
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Стажер-разработчик бэкенда",
+        "link": "https://hh.ru/vacancy/124185195",
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        }
+    },
+    {
+        "salary": null,
+        "name": "Стажер-разработчик бэкенда",
+        "link": "https://hh.ru/vacancy/124185196",
+        "area": {
+            "id": "4",
+            "name": "Новосибирск",
+            "url": "https://api.hh.ru/areas/4"
+        }
+    },
+    {
+        "salary": {
+            "from": 20000,
+            "to": 30000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Специалист по IT",
+        "link": "https://hh.ru/vacancy/123359857",
+        "area": {
+            "id": "1225",
+            "name": "Новоалтайск",
+            "url": "https://api.hh.ru/areas/1225"
+        }
+    },
+    {
+        "salary": {
+            "from": 30000,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель по программированию",
+        "link": "https://hh.ru/vacancy/123796642",
+        "area": {
+            "id": "104",
+            "name": "Челябинск",
+            "url": "https://api.hh.ru/areas/104"
+        }
+    },
+    {
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель программирования в онлайн-школу (Construct, Unity, Python Backend)",
+        "link": "https://hh.ru/vacancy/124304069",
+        "area": {
+            "id": "78",
+            "name": "Самара",
+            "url": "https://api.hh.ru/areas/78"
+        }
+    },
+    {
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель программирования в онлайн-школу (Unity, Kotlin)",
+        "link": "https://hh.ru/vacancy/124304066",
+        "area": {
+            "id": "99",
+            "name": "Уфа",
+            "url": "https://api.hh.ru/areas/99"
+        }
+    },
+    {
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель программирования в онлайн-школу (геймдизайн)",
+        "link": "https://hh.ru/vacancy/124304065",
+        "area": {
+            "id": "66",
+            "name": "Нижний Новгород",
+            "url": "https://api.hh.ru/areas/66"
+        }
+    },
+    {
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель Scratch / Roblox / Unity в онлайн-школу",
+        "link": "https://hh.ru/vacancy/123929286",
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        }
+    },
+    {
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель Scratch / Roblox / Unity в онлайн-школу",
+        "link": "https://hh.ru/vacancy/123929288",
+        "area": {
+            "id": "88",
+            "name": "Казань",
+            "url": "https://api.hh.ru/areas/88"
+        }
+    },
+    {
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель Scratch / Roblox / Unity в онлайн-школу",
+        "link": "https://hh.ru/vacancy/123929289",
+        "area": {
+            "id": "104",
+            "name": "Челябинск",
+            "url": "https://api.hh.ru/areas/104"
+        }
+    },
+    {
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель Scratch / Roblox / Unity в онлайн-школу",
+        "link": "https://hh.ru/vacancy/123929287",
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        }
+    },
+    {
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель Scratch / Roblox / Unity в онлайн-школу",
+        "link": "https://hh.ru/vacancy/124304064",
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        }
+    },
+    {
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "name": "Преподаватель Scratch / Roblox / Unity в онлайн-школу",
+        "link": "https://hh.ru/vacancy/124304068",
+        "area": {
+            "id": "53",
+            "name": "Краснодар",
+            "url": "https://api.hh.ru/areas/53"
+        }
+    }
+]
